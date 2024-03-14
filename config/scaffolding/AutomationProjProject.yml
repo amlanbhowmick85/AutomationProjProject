@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: AutomationProjProject
+  gitServerName: ICAccountTest0314
+  gitUrl: https://github.com/amlanbhowmick85/AutomationProjProject
+  gitUsername: amlanbhowmick85
+  gitBranch: main
